@@ -27,7 +27,7 @@
 		-  ==Wavy lines, rectangular filled geometric designs== and a group of dots also can be seen.
 		-  ==Superimposition of paintings – earliest is Black, then red and later White==. 20 layers of paintings in Bhimbetka.
 		-  Used shades of white, yellow, orange, red ochre, purple, brown, green and black. (white and red were their favourite)
-		-  ![AcroRd32_XtYUBUzNHK.png](/img/user/Attachments/AcroRd32_XtYUBUzNHK.png)
+		- ![AcroRd32_XtYUBUzNHK.png](/img/user/Attachments/AcroRd32_XtYUBUzNHK.png)
 ## Bhimbetka paintings
 >Considered as evidence of long cultural continuity. Continuous occupation from 10,000 BCE to 1,000 CE. 
 - Located in [[Satpura Ranges\|Satpura Ranges]]
