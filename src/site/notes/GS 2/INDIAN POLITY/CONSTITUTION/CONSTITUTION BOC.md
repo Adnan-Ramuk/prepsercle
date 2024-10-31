@@ -15,4 +15,4 @@ Over time, the Constitution of India has stood the test of time, with [[GS 2/IND
 
 [[GS 2/INDIAN POLITY/CONSTITUTION/Comparing India's Constitution with other constitutions around the world\|Comparing India's Constitution with other constitutions around the world]] shows its unique features and contributions to the global legal system
 
->"eOur constitution is a ray of hope: H for harmony, O for Opportunity, P for people's participation and E for equality" - Narendra Modi
+>"Our constitution is a ray of hope: H for harmony, O for Opportunity, P for people's participation and E for equality" - Narendra Modi
