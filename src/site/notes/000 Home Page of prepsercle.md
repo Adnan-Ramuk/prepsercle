@@ -20,4 +20,4 @@ This is the homepage of PrepSercle for UPSC CSE
 - 050 - [[GS 4/GS 4 ROC\|GS 4 ROC]]    - Paper 5 GS 4
   
 - Created by Nandakumar N, UPSC CSE Mentor
-	-  ![file 1.png](/img/user/Attachments/file%201.png)
+			 ![file.jpg](/img/user/Attachments/file.jpg)
