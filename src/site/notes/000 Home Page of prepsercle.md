@@ -19,10 +19,5 @@
 - 040 - [[GS 3/GS 3 ROC\|GS 3 ROC]]    - Paper 4 GS 3
 - 050 - [[GS 4/GS 4 ROC\|GS 4 ROC]]    - Paper 5 GS 4
 
-This is the homepage of PrepSercle for UPSC CSE - an Initiative of Sercle IAS - t.me/SercleIAS
-
-
-
-
+>This is the homepage of PrepSercle for UPSC CSE - an Initiative of Sercle IAS - t.me/SercleIAS
 >Created by Nandakumar N, UPSC CSE Mentor
->![Nandakumar.png](/img/user/Attachments/Nandakumar.png)
