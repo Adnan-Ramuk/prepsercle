@@ -1196,44 +1196,43 @@ ChatGPT (Chat Generative Pre­trained Transformer), a software tool that�
 [[20-01-2021-Wednesday\|20-01-2021-Wednesday]]  1:17 PM
 
 # 5G
-  >5G is the latest generation of cellular mobile communications. It succeeds the 4G (LTE/WiMax), 3G (UMTS) and 2G (GSM) systems. ==It's a high frequency (GHz range) low wavelength spectrum of communication.== #definition #introduction 
+  >5G is the latest generation of cellular mobile communications. It succeeds the 4G (LTE/WiMax), 3G (UMTS) and 2G (GSM) systems. ==It's a high frequency (GHz range) low wavelength spectrum of communication.==  The 5G frequency bands in India include: 700 MHz, 800 MHz, 900 MHz, 1800 MHz, 2100 MHz, 2500 MHz, 3300 MHz, and 26 GHz #definition #introduction 
 
  ## What is 5G?
-5th generation of cellular mobile communication.
-
-- 1g - 1980-82 in USA
-- 2g - GSM in Finland in 1992
-- 3g - in Japan 2001. - 0.2mbps - video. history of mobile apps began.
-- 4g - improved speed. expensive.
+- 5th generation of cellular mobile communication.
+- Previous generations
+	- 1g - 1980-82 in USA
+	- 2g - GSM in Finland in 1992
+	- 3g - Japan in 2001. - 0.2mbps - video. history of mobile apps began.
+	- 4g - Improved speed
 ![Pasted image 20201022145140.png](/img/user/Attachments/Pasted%20image%2020201022145140.png)
-## development of 5g across the world
+## Development of 5g across the world
 Every country is looking at 5G as a technology to boost economic development.
- 
 - China officially announced 5g Era, China Japan and Korea are on the leading front.
 - USA, AUSTRALIA And Canada  - concerned about privacy and Cyber security.
-- India responded with ambitious actions. Trials would begin soon. 5g spectrum auction within this year.(2022-April-May)
+- India responded with ambitious actions. 
 	- India is expected to be world's second largest smartphone market by 2025 with around 1 billion installed devices. 88 million going to be 5g enabled devices.
-	- 5g spectrum India - 3.3 GHZ to 40 GHZ
 ## Benefits of 5g technology
 5g would drive future automation, AI, driverless cars, drones.
 - 5G performance targets high data rate, reduced latency, energy saving, cost reduction, higher system capacity, and massive device connectivity.
 - Till now cellular mobile communications were used mainly for mobile communication. 5G is also for industrial development.
-- Speed: At least 10 times (up to 20) faster than current 4g system.
+- Speed: At least 10 times (up to 20) faster than current 4g system. 
+	- HD movies can be downloaded in seconds. we will be watching 4k videos, without buffering. - boost to entertainment.
 - More reliable.
 - **Low communication latency**:
-	-  Latency is the time it takes to pass a message from sender to receiver. Low communication latency is one improvement in 5G. Lower latency could help 5G mobile networks enable things such as multiplayer mobile gaming, factory robots, self-driving cars and other tasks demanding quick response.
+	-  Latency is the time it takes to pass a message from sender to receiver. Low communication latency is one improvement in 5G. Lower latency could help 5G mobile networks enable things such as multiplayer mobile gaming, factory robots, self-driving cars and other tasks demanding quick response. #definition 
 - Enables new Applications: like IoT, Driverless cars, nanobots etc.
-- will improve overall connectivity in India.
-- HD movies can be downloaded in seconds. we will be watching 4k videos, without buffering. - boost to entertainment.
+- Will improve overall connectivity in India.
 - New and efficient transportation.
-- improved energy efficiency.
+- Improved energy efficiency.
 - Revolutionize education sector.
 - Smart agriculture.
 - Smart Governance.
 ## Challenges and Demerits
 - **Technical**: Milli metre waves are absorbed by gases in the atmosphere and have shorter range than microwaves, therefore the cells are limited to smaller size; 5G cells will be the size of a city block, as opposed to the cells in previous cellular networks which could be many miles across. 
 	- The waves also have trouble passing through building walls, requiring multiple antennas to cover a cell. Milli metre wave antennas are smaller than the large antennas used in previous cellular networks, only a few inches long, so instead of a cell tower 5G cells will be covered by many antennas mounted on telephone poles and buildings.
-- **Economical**: Implementation of 5G will cost enormous and unjustifiable capital investment. Deployment is currently limited to cities, where there will be enough users per cell to provide an adequate investment return, and there are ==doubts about whether this technology will ever reach rural areas.==
+- **Economical**: Implementation of 5G will cost enormous and unjustifiable capital investment. 
+	- Deployment is currently limited to cities, where there will be enough users per cell to provide an adequate investment return, and there are ==doubts about whether this technology will ever reach rural areas.==
 - **Security and Privacy**: [[GS 3/INTERNAL SECURITY/Basics of Cybersecurity\|Cybersecurity]], [[Data Privacy\|Data Privacy]] issues, Surveillance.
 - **Impact on environment and Health**: 
 	- any technology improve communication reduce carbon emission, [[Greenhouse gas\|GHG]] etc.  so 5g would be environment friendly. (comparatively)
@@ -1241,7 +1240,7 @@ Every country is looking at 5G as a technology to boost economic development.
 	- Higher power concentrated on small areas.
 	- harmful effects of electro-magnetic radiations. collapse of insect population. e.g.  **colony collapse of Bees.**
 	- Retinal damage, neurological issues, cancer risks, etc.
-- **Political**: Other potential tricky issues could relate to whether Huawei, which is currently the prime target in the U.S.China technology war, is allowed to participate in the 5G trials (telecom) in India.
+- **Political**: Other potential tricky issues could relate to whether Huawei, which is currently the prime target in the US - China technology war, is allowed to participate in the 5G trials (telecom) in India.
 ## Need for a Desi 5G model
 For inclusive and supportive of health care, education and farming.
 - Indian players must be proactive, because country's appetite for mobile tech is going to be huge.

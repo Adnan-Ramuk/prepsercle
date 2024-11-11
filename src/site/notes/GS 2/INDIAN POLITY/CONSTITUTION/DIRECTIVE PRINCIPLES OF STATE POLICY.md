@@ -130,6 +130,7 @@
 - Dr. B R Ambedkar had pointed out that the Directives have great value because they lay down that the goal of Indian polity is ‘economic democracy’ as distinguished from ‘political democracy’.
 - They are like an ‘Instrument of Instructions’ or general recommendations addressed to all authorities in the Indian Union. They remind them of the basic principles of the new social and economic order, which the Constitution aims at building.
 - They have served as useful beacon-lights to the courts. They have helped the courts in exercising their power of judicial review, that is, the power to determine the constitutional validity of a law.
+	- DPSP are meant to be guiding principles for the enactment of laws, but are not directly enforceable in any court of law.
 - They form the dominating background to all State action, legislative or executive and also a guide to the courts in some respects.
 - They amplify the Preamble, which solemnly resolves to secure to all citizens of India justice, liberty, equality and fraternity.
 - They facilitate stability and continuity in domestic and foreign policies in political, economic and social spheres in spite of the changes of the party in power.
